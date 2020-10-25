@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://data-cityofmadison.opendata.arcgis.com/datasets/assessment-areas-single-family
+HostUrl=https://prod-hub-indexer.s3.amazonaws.com/files/5ab12f01b2924cf39f50edee4cd46e77/16/full/4326/5ab12f01b2924cf39f50edee4cd46e77_16_full_4326.zip
